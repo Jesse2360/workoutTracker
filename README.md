@@ -25,8 +25,8 @@ This is a Workout/ Fitness tracker that allows you to track the type of exercise
 ```A consumer will reach their fitness goals more quickly when they track their workout progress.```
 
 # Screenshots
-![photo](https://github.com/Jesse2360/Workout-Tracker/blob/239bd8430a6e7d4e7160ce77b7ba0d62f828dacb/images/Screen%20Shot%201.png)
-![photo](https://github.com/Jesse2360/Workout-Tracker/blob/239bd8430a6e7d4e7160ce77b7ba0d62f828dacb/images/Screen%20Shot%202.png)
+![photo](https://github.com/Jesse2360/workoutTracker/blob/aeeec9f8d877d8908e914d228f30e7d704b60576/images/Screen%20Shot%201.png)
+![photo](https://github.com/Jesse2360/workoutTracker/blob/aeeec9f8d877d8908e914d228f30e7d704b60576/images/Screen%20Shot%202.png)
 
 # Technologies
  * Node.js
